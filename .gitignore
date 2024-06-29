@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+streamlitbook-saraevan/
 
 # Spyder project settings
 .spyderproject
