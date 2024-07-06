@@ -12,9 +12,9 @@ st.sidebar.success("Select a demo above.")
 st.markdown(
     """
     <style>
-    #MainMenu {visibility: hidden;} 
-    footer {visibility: hidden;} 
-    .stDeployButton {visibility: hidden;}
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        .stDeployButton {visibility: hidden;}
     </style>
     Streamlit is an open-source app framework built specifically for
     Machine Learning and Data Science projects.
